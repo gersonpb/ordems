@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-	<img width="50%" src="https://github.com/gersonpb/ordems/blob/develop/logos/logo-codecraft-01.png">
+	<img width="50%" src="https://github.com/gersonpb/ordems/blob/develop/logos/logo-codecraft-03.png">
 </p>
 
 

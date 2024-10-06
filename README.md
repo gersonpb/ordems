@@ -1,10 +1,10 @@
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/buildrun-tech/buildrun-desafio-backend-btg-pactual/blob/main/images/btg-logo.jpg"> 
+	<img width="50%" src="https://github.com/gersonpb/ordems/blob/develop/logos/logo-codecraft-01.png">
 </p>
 
 
 <h3 align="center">
-  Desafio Backend do BTG Pactual
+  Desafio Backend Java
 </h3>
 
 <p align="center">
@@ -15,9 +15,7 @@
 
 </p>
 
-[Se inscreva em nosso canal no Youtube!](https://www.youtube.com/@buildrun-tech?sub_confirmation=1)
 
-Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=e_WgAB0Th_I)
 
 ## Desafio
 - Confira o enunciado completo, [clicando aqui](./problem.md).
@@ -25,8 +23,6 @@ Para um maior entendimento do código deste repositório, [assista nosso vídeo 
 ## Como interagir com o banco de dados?
 - Utilizamos o [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 
-## Como interagir com a API?
-- Utilizamos o [Bruno](https://github.com/usebruno/bruno)
 
 ## :rocket: Tecnologias utilizadas
 
@@ -38,6 +34,5 @@ Para um maior entendimento do código deste repositório, [assista nosso vídeo 
 
 :mag: Baixe o projeto e teste você mesmo na prática.
 
-[Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
 
-Developed by Build & Run
+Developed by Codecraft Innovations
